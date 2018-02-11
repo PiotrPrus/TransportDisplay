@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transport Display</string>
+    <string name="title_activity_display">Map</string>
+    <string name="firebase_path" translatable="false">locations</string>
+</resources>
